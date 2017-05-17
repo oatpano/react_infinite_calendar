@@ -4,7 +4,7 @@
 
 **1.สร้างโปรเจ็ค React native**
 
-```
+```sh
 create-react-app app-name
 ```
 
@@ -12,7 +12,8 @@ create-react-app app-name
 **2.เพิ่ม dependency**
 
 มี dependency 2 อันนี้ และให้บันทึกลง package.json ด้วย --save
-```
+
+```sh
 npm install react-infinite-calendar react-transition-group@1.1.1 --save
 ```
 
@@ -43,7 +44,8 @@ ReactDOM.render(
 
 
 **4.สั่งคำสั่งรันบน Browser**
-```
+
+```sh
 npm start
 ```
 
