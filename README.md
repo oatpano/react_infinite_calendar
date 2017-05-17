@@ -1,20 +1,23 @@
 **วิธีติดตั้ง React Infinite Calendar**
 =============================
 
+
 **1.สร้างโปรเจ็ค React native**
 
 ```
 create-react-app app-name
 ```
-<br><br>
+
+
 **2.เพิ่ม dependency**
 
 มี dependency 2 อันนี้ และให้บันทึกลง package.json ด้วย --save
 ```
 npm install react-infinite-calendar react-transition-group@1.1.1 --save
 ```
-<br><br>
-3.แก้ไขไฟล์ index.js ตามนี้
+
+
+**3.แก้ไขไฟล์ index.js ตามนี้**
 ```
 import React from 'react'
 import ReactDOM from 'react-dom'
@@ -37,14 +40,15 @@ ReactDOM.render(
   document.getElementById('root')
 )
 ```
-<br><br>
-4.สั่งคำสั่งรันบน Browser
+
+
+**4.สั่งคำสั่งรันบน Browser**
 ```
 npm start
 ```
-<br><br>
+
 อ้างอิง
-<br>
+
 github: [https://github.com/clauderic/react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar)
-<br>
+
 fix: [https://www.npmjs.com/package/react-addons-css-transition-group](https://github.com/clauderic/react-infinite-calendar)
