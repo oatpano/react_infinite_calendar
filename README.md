@@ -2,14 +2,14 @@
 =============================
 
 
-**1.สร้างโปรเจ็ค React native**
+<B>**1.สร้างโปรเจ็ค React native**</B>
 
 ```
 create-react-app app-name
 ```
 
 
-**2.เพิ่ม dependency**
+<B>**2.เพิ่ม dependency**</B>
 
 มี dependency 2 อันนี้ และให้บันทึกลง package.json ด้วย --save
 ```
@@ -17,7 +17,7 @@ npm install react-infinite-calendar react-transition-group@1.1.1 --save
 ```
 
 
-**3.แก้ไขไฟล์ index.js ตามนี้**
+<B>**3.แก้ไขไฟล์ index.js ตามนี้**</B>
 ```
 import React from 'react'
 import ReactDOM from 'react-dom'
@@ -42,12 +42,13 @@ ReactDOM.render(
 ```
 
 
-**4.สั่งคำสั่งรันบน Browser**
+<B>**4.สั่งคำสั่งรันบน Browser**</B>
 ```
 npm start
 ```
 
-อ้างอิง
+
+<B>**อ้างอิง**</B>
 
 github: [https://github.com/clauderic/react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar)
 
