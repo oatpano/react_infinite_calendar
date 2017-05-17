@@ -18,7 +18,7 @@ npm install react-infinite-calendar react-transition-group@1.1.1 --save
 
 
 **3.แก้ไขไฟล์ index.js ตามนี้**
-```
+```js
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
