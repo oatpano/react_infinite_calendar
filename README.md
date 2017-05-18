@@ -25,7 +25,7 @@ npm start
 =============================
 
 
-**1.สร้างโปรเจ็ค React native**
+**1.สร้างโปรเจ็ค React**
 
 ```sh
 create-react-app app-name
