@@ -1,4 +1,27 @@
-**วิธีติดตั้ง React Infinite Calendar**
+**วิธีติดตั้ง React Infinite Calendar(เริ่มจาก Repo อันนี้)**
+=============================
+
+
+**1. Clone repository นี้**
+[https://github.com/oatpano/react_infinite_calendar.git](https://github.com/oatpano/react_infinite_calendar.git)
+
+**2. เมื่อ clone เสร็จแล้ว**
+พิมพ์คำสั่ง
+```sh
+npm install
+```
+
+**3. สั่งให้แสดงผลบน Browser**
+
+```sh
+npm start
+```
+
+
+
+
+
+**วิธีติดตั้ง React Infinite Calendar(เริ่มจาก0)**
 =============================
 
 
